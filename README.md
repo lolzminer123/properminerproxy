@@ -18,6 +18,8 @@ copy the ip and and port generated and input into ur miner software windows base
 happy mining
 
 ping wise shud be aslow as 12 to 14 on test. tested on 2miners k1pool and herominers and woolypooly
+running 5 rigs all amd rx3060ti x 2 rigs 1 3070 and 1 3090ti x8 gpus
+shares are pot on !
 
 simple switch between low and high shares can be switched whilst running,
 
