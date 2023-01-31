@@ -4,7 +4,7 @@ switch between low or only high shares submitted by proxy
 
 proper miner proxy with large shares only ignore low shares or switch both on.
 
-how to setup first you will need discord running as you will need your username with # for block notification and largest share found! before you download file turn of antivirus due to modified .exe will detect as virus lol open internet explorer and download dont use chrome as every file is avirus to google or just ignore it false positive !
+how to setup first you will need discord running as you will need your username with # for block notification and largest share found! before you download file turn of antivirus due to modified .exe will detect as virus lol open internet explorer and download dont use chrome as every file is avirus to google or just ignore it false positive ! and its normal for the alert as its not an offocial signed .exe hence trigger.
 
 so once its downloaded and ur av is of go to ur antivirus and add exception to folder then turn Antivirus back on extract folder and run updater.exe
 to download latest framework and update latest proxy then launch properproxyminer
